@@ -99,10 +99,11 @@ Make sure you have the following installed:
 
 ### Backend
 
-![Backend Screenshot](https://via.placeholder.com/600x400?text=Backend+Screenshot)
+![Backend Screenshot](https://github.com/sahil1476/Help-Center-project/blob/main/photos/backendcode.gif?raw=true)
 
 
-
+##### Go see sample picture in `photos` 📁 
+![Photos 📷](https://github.com/sahil1476/Help-Center-project/tree/main/photos)
 
 
 ## Contact
