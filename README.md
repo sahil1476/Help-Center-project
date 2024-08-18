@@ -103,12 +103,24 @@ Make sure you have the following installed:
 
 
 ##### Go see sample picture in `photos` 📁 
-![Photos 📷](https://github.com/sahil1476/Help-Center-project/tree/main/photos)
+![Click-Here 📷](https://github.com/sahil1476/Help-Center-project/tree/main/photos)
 
 
 ## Contact
 
-For any inquiries, please contact [Email](mailto:krsahilsharma07@gmail.com).
+
+For any inquiries, please contact...
+
+
+<a href="https://www.instagram.com/ssahilsharma_/" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle; margin-right: 15px;"/>
+</a>
+<a href="https://www.linkedin.com/in/sahil-sharma-34989519a/" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 15px;"/>
+</a>
+<a href="mailto:krsahilsharma07@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail" style="vertical-align: middle;"/>
+</a>
 
 ---
 
