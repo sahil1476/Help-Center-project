@@ -61,7 +61,7 @@ Make sure you have the following installed:
 
 4. Start the backend server:
     ```bash
-    npm start
+    nodemon server.js
    ```
 
 ### Frontend Setup
